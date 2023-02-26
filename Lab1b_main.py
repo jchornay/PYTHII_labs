@@ -90,12 +90,6 @@ def main():
         print(f"Player Two wins!")
     print(f"-----------------------")
 
-
-
-
-
-
-
 class Question:
 
     #init method
