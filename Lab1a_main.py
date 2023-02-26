@@ -5,8 +5,8 @@
 #Lab 1 Problem 1
 
 #imports Patient and Procedure classes
-from Lab_1_1_classes import Patient
-from Lab_1_1_classes import Procedure
+from Lab1a_classes import Patient
+from Lab1a_classes import Procedure
 
 def main():
 
